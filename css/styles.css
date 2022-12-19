@@ -110,6 +110,11 @@ body {
   cursor: pointer;
 }
 
+.sidebar-list-item > a {
+  text-decoration: none;
+  color: #9799ab;
+}
+
 .sidebar-responsive {
   display: inline !important;
   position: absolute;
