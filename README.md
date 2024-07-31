@@ -9,7 +9,7 @@ This is a responsive admin dashboard built using **HTML 5**, **CSS 3**, and **Ja
 - [Running the application](#run-the-application)
 - [Copyright and License](#copyright-and-license)
 
-### Prerequisites
+## Prerequisites
 
 Install the following prerequisites:
 
@@ -17,17 +17,16 @@ Install the following prerequisites:
 
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) allows us to launch a local development server that enables a live reload of our project.
 
-
-### Run the application
+## Run the application
 
 To run the application, start the **Live Server** by clicking **Go Live** in the bottom right corner of the status bar in Visual Studio Code. This action will load the website in your default web browser. 
 
 ![plot](https://github.com/BobsProgrammingAcademy/Responsive-Admin-Dashboard/blob/master/images/vscode.png?raw=true)
 
-### View the application
+## View the application
 
 Once the **Live Server** is up and running, go to http://127.0.0.1:5500/index.html to view the application.
 
-### Copyright and License
+## Copyright and License
 
 Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
